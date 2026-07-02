@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome!
 ## I'm Gabriel Quintino! Let me tell you a little about myself
 
-**Full-Stack Software Engineer | AI Engineer | Python • PHP • JavaScript **
+**Full-Stack Software Engineer | AI Engineer | Python • PHP • JavaScript**
 
 Passionate about Artificial Intelligence, Software Architecture, Cloud Computing and Automation 
 
